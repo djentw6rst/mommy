@@ -1,0 +1,7 @@
+* {
+    background-color: pink;
+}
+marquee {
+    height: 100vh;
+    background: url(moodeng.gif);
+}
